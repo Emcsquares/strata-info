@@ -595,7 +595,7 @@ export default function FormsPage() {
           </TabsContent>
         </Tabs>
 
-        <Card>
+        {/* <Card>
           <CardHeader>
             <CardTitle>HTTP Status Codes</CardTitle>
             <CardDescription>Common response codes you might encounter when working with forms</CardDescription>
@@ -659,7 +659,7 @@ export default function FormsPage() {
               </ul>
             </div>
           </CardContent>
-        </Card>
+        </Card> */}
       </div>
     </div>
   )
