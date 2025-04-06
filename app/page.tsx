@@ -33,7 +33,7 @@ export default function HomePage() {
                 <div className="absolute -inset-1 bg-gradient-to-r from-blue-600 to-sky-500 rounded-lg blur opacity-25"></div>
                 <div className="relative bg-background rounded-lg shadow-xl overflow-hidden">
                   <Image
-                    src="/placeholder.svg?height=400&width=600"
+                    src="/home_img.png"
                     alt="Strata Building"
                     width={600}
                     height={400}
